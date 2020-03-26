@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2746ac7c-eb8e-480e-9f2b-65eeb8c4592f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exceptional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/airtravel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,22 +18,16 @@
   </component>
   <component name="ProjectId" id="1ZRKXF6jDq26bee5D77YljYuF7n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="words" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -80,10 +75,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1585166676456">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1585166676456" />
+    <state x="333" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1585165909480">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="333" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1585165909480" />
+    <state x="320" y="47" width="639" height="729" key="find.popup" timestamp="1585166669076">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="320" y="47" width="639" height="729" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1585166669076" />
   </component>
 </project>
